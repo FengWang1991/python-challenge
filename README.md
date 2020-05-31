@@ -1,2 +1,2 @@
 # python-challenge
-Depository for Homework 03
+Repository for Homework 03
